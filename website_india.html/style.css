@@ -91,11 +91,7 @@ section a{
 
 }
 
-section .btnone{
-    background: #fff;
-    color: #000;
 
-}
 
 .btnone:hover{
     background: #00b894;
