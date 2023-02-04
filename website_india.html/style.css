@@ -42,7 +42,7 @@ nav .menu a{
 }
 
 nav .menu a:first-child{
-    color:  #00b894;;
+    color:  #FF5733;
 }
 
 main
@@ -98,11 +98,11 @@ section .btnone{
 }
 
 .btnone:hover{
-    background: #00b894;
+    background: #FF5733;
     color: white;
 }
 .hover:hover{
-    color: #00b894;
+    color: #FF5733;
 }
 
 .btntwo:hover{
@@ -111,7 +111,7 @@ section .btnone{
 }
 
 section .btntwo{
-    background: #00b894;
+    background: #FF5733;
     color: white;
 }
 
@@ -119,7 +119,7 @@ section .btntwo{
 
     content: ' ';
     animation: changetext 10s infinite linear;
-    color: #00b894;
+    color: #FF5733;
 
 }
 
@@ -140,6 +140,6 @@ section .btntwo{
 }
 
 .para{
-    color: #00b894;
+    color: #FF5733;
 }
 
